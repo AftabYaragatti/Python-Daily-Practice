@@ -283,14 +283,11 @@ Python_Daily_Practice/
 ├── Day-04
 ├── Day-05
 │
-├── Python_Basics
-├── Functions
-├── OOP
-├── File_Handling
-├── NumPy
-├── Pandas
-├── Matplotlib
-├── Seaborn
+├── Day-31
+├── Day-32
+├── Day-33
+├── Day-34
+├── Day-35
 │
 └── README.md
 ```
@@ -329,29 +326,29 @@ Python_Daily_Practice/
 <img src="https://img.shields.io/badge/💻_GitHub-AftabYaragatti-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://aftabyaragatti.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/🌐_Portfolio_Website-Visit_Now-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/aftab-yaragatti">
 <img src="https://img.shields.io/badge/💼_LinkedIn-Aftab_Yaragatti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="mailto:aftabyaragatto80@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email-aftabyaragatto80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/📱_Contact-6362099891-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/📍_Location-Chikodi,_Belagavi,_Karnataka,_India-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
